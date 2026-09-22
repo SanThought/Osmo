@@ -1,6 +1,8 @@
-<img width="730" height="240" alt="osmo-logo-horizontal" src="https://github.com/user-attachments/assets/602e9121-5175-4156-9309-b10190de33b4" /># PROJECT
+# PROJECT
 
-![Uploading os<svg xmlns="http://www.w3.org/2000/svg" width="730" height="240" viewBox="0 0 730 240" role="img" aria-label="Osmo horizontal logo"><title>Osmo horizontal logo</title><defs><linearGradient id="brand" gradientUnits="userSpaceOnUse" x1="40" y1="90" x2="280" y2="220"><stop stop-color="#4C9BDD"/><stop offset="1" stop-color="#8FC48D"/></linearGradient><linearGradient id="word" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="400" y2="0"><stop stop-color="#4C9BDD"/><stop offset="1" stop-color="#8FC48D"/></linearGradient></defs><g transform="translate(0 -8) scale(.8)"><path fill="url(#brand)" fill-rule="evenodd" d="M160 50 C178 50 195 55 210 63 C223 70 231 67 234 54 C237 43 246 36 257 36 C271 36 282 47 282 61 C282 72 275 81 265 85 C251 91 250 101 258 115 C266 129 270 144 270 160 C270 220.751 220.751 270 160 270 C142 270 125 265 110 257 C97 250 89 253 86 266 C83 277 74 284 63 284 C49 284 38 273 38 259 C38 248 45 239 55 235 C69 229 70 219 62 205 C54 191 50 176 50 160 C50 99.249 99.249 50 160 50 Z M228 160 A68 68 0 1 0 92 160 A68 68 0 1 0 228 160 Z"/><circle cx="257" cy="61" r="17" fill="#AED5A7"/><circle cx="63" cy="259" r="17" fill="#408ECD"/></g><g transform="translate(295 53)"><g fill="none" stroke="url(#word)" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="55" cy="65" rx="46" ry="50"/><path d="M171 44 C150 29 121 34 121 52 C121 74 174 58 174 83 C174 106 140 111 120 98"/><path d="M204 103 V63 C204 29 251 29 251 63 V103 M251 63 C251 29 298 29 298 63 V103"/><circle cx="358" cy="73" r="34"/></g></g></svg>mo-logo-horizontal.svg…]()
+<img width="730" height="240" alt="osmo-logo-horizontal" src="https://github.com/user-attachments/assets/602e9121-5175-4156-9309-b10190de33b4" />
+
+
 
 
 <img width="184" height="173" alt="image" src="https://github.com/user-attachments/assets/545c3da4-9235-4259-a0f5-00c42908f3db" />
